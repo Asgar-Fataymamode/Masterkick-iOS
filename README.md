@@ -1,6 +1,5 @@
-# [Final Project - Masterkick](https://github.com/molab-itp/2024-09-Asgar-Masterkick)
+# Final Project - Masterkick
 
-Football App developed by Muhammad Ali Asgar Fataymamode (NYUAD Class of 2026)
 
 ## Problem
 
