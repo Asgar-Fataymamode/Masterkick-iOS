@@ -1,5 +1,6 @@
 # Final Project - Masterkick
 
+Please contact me if you want to have access to the code.
 
 ## Problem
 
