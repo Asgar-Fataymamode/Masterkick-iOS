@@ -1,6 +1,6 @@
 # Final Project - Masterkick
 
-Please contact me if you want to have access to the code.
+Contact me if you want to try out the app!
 
 ## Problem
 
